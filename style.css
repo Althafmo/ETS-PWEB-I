@@ -15,9 +15,11 @@ body {
     margin-right: -0.75rem;
     margin-left: -0.75rem;
 }
-.col-sm-3{
+.col-md-3{
     position: relative;
     width: 100%;
     padding-right: 0.75rem;
     padding-left: 0.75rem;
+    margin-top: 0.75rem;
+    margin-top: 0.75rem;
 }
